@@ -1,0 +1,73 @@
+img {
+    width: 300px;
+}
+
+
+
+
+
+
+
+
+/*Global styles
+-----------------------------------*/
+body {
+    color: black;
+}
+a {
+    color: palevioletred;
+}
+a:hover {
+    text-decoration: none;
+}
+
+
+/*Profile
+-----------------------------------*/
+header {
+    background-color: pink;
+}
+
+/*Projects
+-----------------------------------*/
+
+.Projects {
+    background-color: white;
+}
+.Projects .btn {
+    color: white;
+    background-color: purple;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 4px;
+}
+.Projects .btn:hover {
+    background-color: rgba(160,32,240,80%) ;
+}
+
+
+
+
+/*Work Expirence 
+-----------------------------------*/
+
+.work-experience {
+    background-color: white;
+}
+
+
+
+/*Education
+-----------------------------------*/
+.education {
+    background-color: white;
+}
+
+
+
+/*Contact Info
+-----------------------------------*/
+footer {
+    background-color: pink;
+}
+
